@@ -1,0 +1,14 @@
+{
+    "name": "sabbir/crm-roadmap",
+    "autoload": {
+        "psr-4": {
+            "CrmRoadmap\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sabbir Ahmad"
+        }
+    ],
+    "require": {}
+}
